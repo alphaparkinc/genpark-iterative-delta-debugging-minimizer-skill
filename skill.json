@@ -1,0 +1,15 @@
+{
+  "name": "genpark-iterative-delta-debugging-minimizer-skill",
+  "version": "1.0.0",
+  "description": "Zeller's Delta Debugging algorithm minimizing failing code and inputs to minimal reproducible examples.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "delta-debugging",
+    "ddmin",
+    "minimal-reproducible-example",
+    "test-reduction",
+    "debugging"
+  ]
+}
